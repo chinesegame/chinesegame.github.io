@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'Sensei';
-  src: url('/public/fonts/sensei_medium.woff2') format('woff2');
+  src: url('./sensei_medium.woff2') format('woff2');
 }
 
 @font-face {
   font-family: 'KaiTi';
-  src: url('/public/fonts/KaiTi.woff2') format('woff2');
+  src: url('./KaiTi.woff2') format('woff2');
 }
